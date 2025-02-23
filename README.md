@@ -21,7 +21,7 @@
 #### 🧑‍💻 Project Management & Design
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-<hr>
+### 📊 GitHub Stats
 
 <br>
 <div>
@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuJeeun&layout=compact" style="width: 45%;" />
 </div>
 
-<hr>
+### 🧩 Algorithm & Problem Solving
 <div>
   
   [![Solved.ac
