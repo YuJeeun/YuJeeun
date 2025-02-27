@@ -4,6 +4,11 @@
 </picture>
 <hr>
 
+### 📝 Blog
+<a href="https://velog.io/@yuje_eun/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Blog-00B140?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
 ### ⚙️ Tech Skill
 
 #### 🧑‍💻 Languages
@@ -25,8 +30,8 @@
 
 <br>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=YuJeeun&show_icons=true&theme=transparent" style="width: 50%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuJeeun&layout=compact" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YuJeeun&show_icons=true&theme=transparent" style="width: 40%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuJeeun&layout=compact" style="width: 35%;" />
 </div>
 
 ### 🧩 Algorithm & Problem Solving
