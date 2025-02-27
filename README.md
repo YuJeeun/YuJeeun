@@ -28,7 +28,6 @@
 
 ### 📊 GitHub Stats
 
-<br>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=YuJeeun&show_icons=true&theme=transparent" style="width: 40%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuJeeun&layout=compact" style="width: 35%;" />
